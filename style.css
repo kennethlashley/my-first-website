@@ -1,0 +1,177 @@
+html { 
+  background: url("https://images.pexels.com/photos/8657081/pexels-photo-8657081.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1 {
+  border-bottom-style: solid;
+  text-align: center;
+  font-size: 4em;
+  font-family: fantasy;
+  margin-top: 1px;
+  margin-bottom: 0px;
+ 
+
+}
+
+a:link, a:visited {
+  background-color: #0a0a0a;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: #2e2d2d;
+}
+
+a {
+  display: inline;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+html {
+  text-align: center;
+}
+
+h3 {
+ line-height: 20px;
+  font-style: italic;
+  font-weight: bold;
+  text-decoration: underline;
+  font-size: 3em;
+  font-family: "Times New Roman", Georgia;
+}
+
+h4 {
+  border-bottom-style: groove;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 2em;
+}
+
+h1 {
+  background-color: ;
+  text-align: center;
+  padding: 20px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #0a0a0a;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
+
+
+p {line-height: 20px;
+  font-style: italic;
+  font-weight: ;
+  font-size: 150%;
+  font-family: "Times New Roman", Georgia;
+}
+.container1 .container2 .container3 .container4 .container5 .container6 .container7 .container8 {
+  display:  inline-flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  line-height: 20px;
+  font-style: normal;
+  font-weight: ;
+  font-size: ;
+  font-family: "Times New Roman", Georgia;
+}
+
+.container1 p {
+  border-style: solid;
+  border-color: #0a0a0a;
+  background-color: #0a0a0a;
+  color: white ;
+}
+  .container2 p {
+  border-style: solid;
+  border-color: #0a0a0a;
+  background-color: #0a0a0a;
+  color: white ;
+}
+  .container3 p {
+  border-style: solid;
+  border-color: #0a0a0a;
+  background-color: #0a0a0a;
+  color: white ;
+}
+  .container4 p {
+  border-style: solid;
+  border-color: #0a0a0a;
+  background-color: #0a0a0a;
+  color: white ;
+}
+  .container5 p {
+  border-style: solid;
+  border-color: #0a0a0a;
+  background-color: #0a0a0a;
+  color: white ;
+}
+  .container6 p {
+  border-style: solid;
+  border-color: #0a0a0a;
+  background-color: #0a0a0a;
+  color: white ;
+}
+ .container7 p {
+  border-style: solid;
+  border-color: #0a0a0a;
+  background-color: #0a0a0a;
+  color: white ;
+}
+
+
+  .container8 p {
+  border-style: solid;
+  border-color: #0a0a0a;
+  background-color: #0a0a0a;
+  color: white ;
+
+}
+
+
+.footer {
+  justify-content: center;
+  line-height: 20px;
+  font-style: italic;
+  font-weight: ;
+  font-size: 150%;
+  font-family: "Times New Roman", Georgia;
+
+}
+
